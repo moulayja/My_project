@@ -8,6 +8,6 @@ gem "require_all"
 gem "faker"
 
 
-gem 'activerecord', "~> 5.2.3"
+gem 'activerecord', "~> 5.2.4"
 gem 'tty-prompt'
 gem 'colorize'
